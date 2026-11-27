@@ -1,0 +1,4 @@
+Some extensions, in the form of modes that the user can turn on and off at will:
+Kaleidoscope mode rotates and mirrors the drawing around the canvas. Each copy has its own color and is on a slight delay, so a simple design can turn into a really intricate design.
+Neon comet trails mode gives each moving pen a glowing tail that fades as it goes, and there can be a slider for trail-length, and also a toggle for permanently leaving a trail behind. 
+Particle physics mode makes the trails look like ink that splatters as it goes across the canvas. 
